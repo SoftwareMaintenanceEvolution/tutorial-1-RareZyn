@@ -3,6 +3,8 @@
 Hi! I'm RAZIN, a student in the Software Maintenance Evolution course. 
 I expecto to learn how to running old software, fix bugs, add new features, and improve it without breaking what already works
 
+My Image:
+https://github.com/SoftwareMaintenanceEvolution/tutorial-1-RareZyn/blob/main/RAZIN.jpg
 
 ## GitHub Profile
 
